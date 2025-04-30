@@ -9,15 +9,6 @@
   </a>
 </h1>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/emile-aydar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a
-  <img src="https://komarev.com/ghpvc/?username=EmileAydar&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
-
 
 > 💡 **Looking for role as a Research Engineer, Software Engineer, or Research Scientist in Large Language Models. Available immediately.**
 ### `$ cat emile.py`
