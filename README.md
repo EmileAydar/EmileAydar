@@ -120,18 +120,3 @@ class Emile(ResearchEngineer):
   <img src="https://github-readme-stats.vercel.app/api?username=EmileAydar&show_icons=true&theme=radical" alt="Contribution Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileAydar&layout=compact&theme=highcontrast" alt="Top Languages"/>
 </p>
-
-
-<!-- Contribution heatmap -->
-![Contributions](https://ghchart.rshah.org/EmileAydar)
-
-<!-- ou, avec GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=EmileAydar&show_icons=true&theme=radical" alt="Stats GitHub" />
-
-<!-- Pour le calendrier :
-https://github.com/ashutosh00710/github-readme-activity-graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=EmileAydar&theme=react-dark&area=true" alt="Activity Graph" />
-
-
-
-
