@@ -23,12 +23,9 @@
 <p align="center">
     <p align="center">🌠Scraping the Internet since 2019 🌠</p>
 
-  <p align="center">:telescope: I worked as a Deep Learning and Computer Vision Engineer at Sorbonne Université, with Dr.Thierry Dufour and Dr.Olivier Schwander to build AI pipelines for synchrotron-based tumor fibers' analysis.</p>
-  <p align="center"> Currently in University College Dublin for completing my dual master degree in Electronic and Computer Engineering.</p>
 
   <p align="center">:seedling: Exploring new coding horizons</p>
 
-  <p align="center">:zap: In my free time, I scrap the Internet, solve LeetCode problems and read political philosophy..</p>
 
   <p align="center"> 👇 How to reach me 👇</p>
  <p align="center">📫emile.aydar@ucdconnect.ie📫emile.aydar@outlook.fr📫</p>
