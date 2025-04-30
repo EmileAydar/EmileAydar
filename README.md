@@ -60,16 +60,7 @@ class Emile(ResearchEngineer):
                 ]
             }
         ]
-        self.projects = [
-            {
-                "name": "UCD BERT Optimization",
-                "desc": "Efficient MoE & early-exit for BERT: –47% compute, <4% accuracy drop on GLUE"
-            },
-            {
-                "name": "TorchJD (Open Source)",
-                "desc": "Re-implemented GradVac multi-gradient weighting with 100% test coverage"
-            }
-        ]
+
         self.keywords = [
             "AI Research", "Deep Learning", "NLP", "Computer Vision",
             "Edge AI", "Distributed Systems", "Docker & CI/CD",
