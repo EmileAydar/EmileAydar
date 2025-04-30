@@ -1,86 +1,79 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Welcome gif"/>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Emile Aydar
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Emile+Aydar;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a>
+</h1>
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emile-aydar/) 
-  [![Email](https://img.shields.io/badge/Email-emile.aydar%40outlook.fr-green?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:emile.aydar@outlook.fr)
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/emile-aydar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=EmileAydar&style=flat-square&color=blue" alt=""/>
+
+<h1>
+  <p align="center">About Me </p>
+</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmileAydar&style=flat-square&color=blue" alt="Profile views"/>
+`$ cat romain.py`
+```python
+from profiles import ResearchEngineer
+
+
+class Emile(ResearchEngineer):
+    def __init__(self):
+        self.name = "Romain"
+        self.focus = ["Adaptive Computation", "LLM Inference"]
+        self.education = [
+            "M.Eng. @ IMT Mines Alès 🇫🇷"
+        ]
+        self.attribute = Curious(level=math.inf)
+        self.location = "France"  # South Korea
+ 
+    def mode(self):
+        return "🔬 Research | 🛠️ Engineering"  # Swiss Army knife mode activated
+
+    def contact(self):
+        return "romsto@snu.ac.kr"
+
+```
+
+
+  <p align="center"> 👇 How to reach me 👇</p>
+ <p align="center">📫emile.aydar@outlook.fr📫</p>
 </p>
+<p align="center">📫<a href="https://www.linkedin.com/in/emile-aydar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
+<hr> 
 
----
+###  <h2 align="center">:hammer_and_wrench: Languages, Frameworks & Tools </h2>
+  <div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/devicon/scikitlearn.svg" title="Scikit-Learn" alt="Scikit-Learn" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 
-## 💼 Summary
-
-Dual M.S. & M.Eng. graduate in Computer Science, AI and Engineering seeking roles as **AI Engineer** or **Research Scientist** (AI Optimization & LLMs). Available immediately.
-
----
-
-## 🗣️ Languages Spoken
-
-- 🇫🇷 French (Native)  
-- 🇬🇧 English (Fluent, TOEIC 980/990)  
-- 🇩🇪 German (Intermediate)  
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-  <strong>Deep Learning & NLP:</strong> PyTorch · TensorFlow · Transformers · Hugging Face · SpaCy · NLTK <br/>
-  <strong>Programming:</strong> Python · Java · C · MATLAB <br/>
-  <strong>Engineering:</strong> Git · Docker · CI/CD · Agile · Linux · HPC (CUDA, Slurm)  
-</p>
-
----
-
-## 🎓 Education
-
-**University College Dublin (UCD), Ireland**  
-M.Sc. in Electronic & Computer Engineering (Dec 2024) · GPA: 3.83  
-Relevant: Deep Learning · Distributed Systems · Quantum Computing · Signal Processing · Wireless Networking  
-
-**École des Mines d’Alès, France**  
-M.S. in Computer Science & AI (Apr 2025)  
-Relevant: Advanced DL · NLP · RL · 3D Vision · Statistics · Software Engineering  
-
----
-
-## 💼 Work Experience
-
-**Rakuten**, Research Scientist Intern  
-Oct 2024 – Apr 2025  
-- Multi-objective recommender optimizing fairness & diversity on Amazon/Netflix/Steam datasets  
-- Built distributed Slurm/A100 training pipeline; paper submitted to ACM RecSys 2025  
-
-**École Polytechnique & Sorbonne University**, Research Scientist Intern  
-May 2023 – Aug 2023  
-- U-Net 3D segmentation (93 % Dice) on 5 TB medical scans; validated with oncologists  
-- Multi-GPU optimization praised by Dr Thierry Dufour  
-
-**Vaonis**, Software Engineer Intern  
-Jan 2023 – May 2023  
-- Fourier-CNN autofocus for astro-images, 15 ms latency on Jetson Nano via quantization  
-- Dockerized REST API & improved CI/CD, slashing onboarding time by 99 %  
-
----
-
-## 🚀 Projects
-
-**UCD Master’s Research Project** (Apr 2024 – Aug 2024)  
-- Efficient BERT with Mixture-of-Experts & early exit, –47 % compute, <4 % accuracy drop on GLUE  
-
-**TorchJD** (Open Source)  
-- Re-implemented GradVac multi-gradient weighting (100 % test coverage) to seed stateful module  
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=EmileAydar&theme=radical&background=000000" alt="Streak Stats"/><br/>
@@ -88,22 +81,17 @@ Jan 2023 – May 2023
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileAydar&layout=compact&theme=highcontrast" alt="Top Languages"/>
 </p>
 
----
 
-## 📌 Pinned Repositories
-
-<p align="center">
-  - [Deep-Learning-Tumor-Fibers-Segmentation](https://github.com/EmileAydar/Deep-Learning-Tumor-Fibers-Segmentation)  
-  - [Orowan-project](https://github.com/EmileAydar/Orowan-project)  
-  - [TorchJD](https://github.com/EmileAydar/torchjd)  
-</p>
-
----
-
-## 📫 Contact
+### <h4 align="center"> Pinned Repos (so far)</h4>
 
 <p align="center">
-✉️ [emile.aydar@outlook.fr](mailto:emile.aydar@outlook.fr) · 🔗 [LinkedIn](https://www.linkedin.com/in/emile-aydar/)
+    <a href="https://github.com/EmileAydar/Deep-Learning-Tumor-Fibers-Segmentation">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=EmileAydar&repo=Deep-Learning-Tumor-Fibers-Segmentation" alt="Readme Card for Deep-Learning-Tumor-Fibers-Segmentation">
+    </a>
+    <a href="https://github.com/EmileAydar/Orowan-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=EmileAydar&repo=Orowan-project" alt="Readme Card for Orowan-project">
+    </a>
 </p>
 
----
+
+
