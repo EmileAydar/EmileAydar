@@ -113,10 +113,10 @@ class Emile(ResearchEngineer):
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 
-### <h2 align="center">:📊 GitHub Stats </h2>
+### <h2 align="center">📊 GitHub Stats </h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=EmileAydar&theme=radical&background=000000" alt="Streak Stats"/><br/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=EmileAydar&theme=radical&background=000000" alt=""/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=EmileAydar&show_icons=true&theme=radical" alt="Contribution Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileAydar&layout=compact&theme=highcontrast" alt="Top Languages"/>
 </p>
