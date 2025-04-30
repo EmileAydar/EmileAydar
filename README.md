@@ -14,24 +14,76 @@
 ### `$ cat emile.py`
 ```python
 from profiles import ResearchEngineer
-
+import math
 
 class Emile(ResearchEngineer):
     def __init__(self):
-        self.name = "Romain"
-        self.focus = ["Adaptive Computation", "LLM Inference"]
+        self.name = "Emile Aydar"
+        self.focus = [
+            "Adaptive Computation", 
+            "LLM Inference", 
+            "Recommender Systems", 
+            "Medical Imaging", 
+            "High-Performance Computing", 
+            "CI/CD Automation"
+        ]
         self.education = [
-            "M.S.Eng. @ University College Dublin 🇰🇷",
+            "M.S. Eng. @ University College Dublin 🇮🇪",
             "M.Eng. @ IMT Mines Alès 🇫🇷"
         ]
+        self.experience = [
+            {
+                "role": "Research Scientist Intern",
+                "org": "Rakuten",
+                "period": "Oct 2024 – Apr 2025",
+                "highlights": [
+                    "Multi-objective recommender optimizing fairness & diversity on large-scale datasets",
+                    "Built distributed Slurm/A100 training pipelines; submitted paper to ACM RecSys 2025"
+                ]
+            },
+            {
+                "role": "Research Scientist Intern",
+                "org": "École Polytechnique & Sorbonne University",
+                "period": "May 2023 – Aug 2023",
+                "highlights": [
+                    "Developed 3D U-Net segmentation with 93% Dice score on medical scans",
+                    "Optimized multi-GPU workflows, cutting training time by 40%"
+                ]
+            },
+            {
+                "role": "Software Engineer Intern",
+                "org": "Vaonis",
+                "period": "Jan 2023 – May 2023",
+                "highlights": [
+                    "Implemented Fourier-CNN autofocus for astro-images (<15 ms latency on Jetson Nano)",
+                    "Dockerized REST APIs & enhanced CI/CD, slashing deployment time by 99%"
+                ]
+            }
+        ]
+        self.projects = [
+            {
+                "name": "UCD BERT Optimization",
+                "desc": "Efficient MoE & early-exit for BERT: –47% compute, <4% accuracy drop on GLUE"
+            },
+            {
+                "name": "TorchJD (Open Source)",
+                "desc": "Re-implemented GradVac multi-gradient weighting with 100% test coverage"
+            }
+        ]
+        self.keywords = [
+            "AI Research", "Deep Learning", "NLP", "Computer Vision",
+            "Edge AI", "Distributed Systems", "Docker & CI/CD",
+            "GPU Acceleration", "Recommendation Systems", "Medical Imaging"
+        ]
         self.attribute = Curious(level=math.inf)
-        self.location = "France"  # Dublin
- 
+        self.location = "France"
+
     def mode(self):
-        return "🔬 Research | 🛠️ Engineering" 
+        return "🔬 Research | 🛠️ Engineering | 📈 Optimization"
 
     def contact(self):
         return "emile.aydar@outlook.fr"
+
 
 ```
 
