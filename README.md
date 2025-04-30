@@ -17,11 +17,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=EmileAydar&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  <p align="center">About Me </p>
-</h1>
-<p align="center">
-`$ cat romain.py`
+> 💡 **Looking for role as a Research Engineer, Software Engineer, or Research Scientist in Large Language Models. Available immediately.**
+### `$ cat emile.py`
 ```python
 from profiles import ResearchEngineer
 
@@ -31,25 +28,23 @@ class Emile(ResearchEngineer):
         self.name = "Romain"
         self.focus = ["Adaptive Computation", "LLM Inference"]
         self.education = [
+            "M.S.Eng. @ University College Dublin 🇰🇷",
             "M.Eng. @ IMT Mines Alès 🇫🇷"
         ]
         self.attribute = Curious(level=math.inf)
-        self.location = "France"  # South Korea
+        self.location = "France"  # Dublin
  
     def mode(self):
-        return "🔬 Research | 🛠️ Engineering"  # Swiss Army knife mode activated
+        return "🔬 Research | 🛠️ Engineering" 
 
     def contact(self):
-        return "romsto@snu.ac.kr"
+        return "emile.aydar@outlook.fr"
 
 ```
 
 
-  <p align="center"> 👇 How to reach me 👇</p>
- <p align="center">📫emile.aydar@outlook.fr📫</p>
-</p>
-<p align="center">📫<a href="https://www.linkedin.com/in/emile-aydar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
-<hr> 
+[![Linkedin: emile-aydar](https://img.shields.io/badge/-Emile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emile-aydar/)](https://www.linkedin.com/in/romain-storaï/)
+![Stars](https://img.shields.io/github/stars/EmileAydar)
 
 ###  <h2 align="center">:hammer_and_wrench: Languages, Frameworks & Tools </h2>
   <div>
@@ -82,7 +77,7 @@ class Emile(ResearchEngineer):
 </p>
 
 
-### <h4 align="center"> Pinned Repos (so far)</h4>
+### <h4 align="center"> Pinned Repos </h4>
 
 <p align="center">
     <a href="https://github.com/EmileAydar/Deep-Learning-Tumor-Fibers-Segmentation">
