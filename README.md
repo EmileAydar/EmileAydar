@@ -1,86 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emile Aydar - README</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f9f9f9; color: #333; }
+    .container { max-width: 800px; margin: 0 auto; padding: 2rem; background-color: #fff; }
+    h1, h2 { text-align: center; margin-bottom: 0.5rem; }
+    hr { border: none; border-top: 1px solid #ddd; margin: 2rem 0; }
+    .skills, .projects, .stats, .pinned, .contact { margin-bottom: 2rem; }
+    .skills ul, .contact ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; }
+    .skills li, .contact li { margin: 0.5rem 1rem; background: #eef; padding: 0.5rem 1rem; border-radius: 5px; }
+    .projects table { width: 100%; border-collapse: collapse; }
+    .projects th, .projects td { border: 1px solid #ddd; padding: 0.75rem; }
+    .projects th { background-color: #f0f0f0; }
+    .stats img { display: block; margin: 0.5rem auto; max-width: 100%; }
+    .pinned a { text-decoration: none; color: #0066cc; }
+    .footer { text-align: center; font-size: 0.9rem; margin-top: 2rem; color: #777; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Emile Aydar</h1>
+    <hr>
+    <section class="about">
+      <h2>👋 About Me</h2>
+      <p>Data Scientist &amp; Full-Stack Developer with a passion for machine learning, web scraping, and innovative solutions. Continuously exploring new technologies since 2019 to build impactful projects.</p>
+      <ul>
+        <li>🌐 Web Scraping &amp; Automation</li>
+        <li>🤖 Machine Learning &amp; Deep Learning</li>
+        <li>⚙️ Full-Stack Development</li>
+      </ul>
+    </section>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+    <hr>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Emile+Aydar;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-  </a>
-</h1>
+    <section class="skills">
+      <h2>🛠️ Skills</h2>
+      <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>C</li>
+        <li>JavaScript</li>
+        <li>SQL</li>
+        <li>R</li>
+        <li>TensorFlow</li>
+        <li>PyTorch</li>
+        <li>Scikit-Learn</li>
+        <li>OpenCV</li>
+        <li>Spring</li>
+        <li>React</li>
+        <li>Node.js</li>
+        <li>Git</li>
+        <li>Docker</li>
+        <li>Linux</li>
+        <li>Bash</li>
+        <li>MySQL</li>
+        <li>MongoDB</li>
+      </ul>
+    </section>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/emile-aydar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+    <hr>
 
-<img src="https://komarev.com/ghpvc/?username=EmileAydar&style=flat-square&color=blue" alt=""/>
+    <section class="projects">
+      <h2>🚀 Featured Projects</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Description</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tumor Fibers Segmentation</td>
+            <td>Deep learning pipeline for medical imaging analysis</td>
+            <td><a href="https://github.com/EmileAydar/Deep-Learning-Tumor-Fibers-Segmentation" target="_blank">GitHub Repo</a></td>
+          </tr>
+          <tr>
+            <td>Orowan Simulation Platform</td>
+            <td>Web application for materials science simulations</td>
+            <td><a href="https://github.com/EmileAydar/Orowan-project" target="_blank">GitHub Repo</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
 
-<h1>
-  <p align="center">About Me </p>
-</h1>
-<p align="center">
-    <p align="center">🌠Scraping the Internet since 2019 🌠</p>
+    <hr>
 
+    <section class="stats">
+      <h2>📊 GitHub Stats</h2>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=EmileAydar&theme=highcontrast" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=EmileAydar&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileAydar&layout=compact&theme=highcontrast" alt="Top Languages" />
+    </section>
 
-  <p align="center">:seedling: Exploring new coding horizons</p>
+    <hr>
 
+    <section class="pinned">
+      <h2>📌 Pinned Repositories</h2>
+      <p>Une sélection unique de mes projets récents :</p>
+      <ul>
+        <li><a href="https://github.com/EmileAydar/Deep-Learning-Tumor-Fibers-Segmentation" target="_blank">Deep-Learning-Tumor-Fibers-Segmentation</a></li>
+        <li><a href="https://github.com/EmileAydar/Orowan-project" target="_blank">Orowan-project</a></li>
+      </ul>
+    </section>
 
-  <p align="center"> 👇 How to reach me 👇</p>
- <p align="center">📫emile.aydar@outlook.fr📫</p>
-</p>
-<p align="center">📫<a href="https://www.linkedin.com/in/emile-aydar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
-<hr> 
+    <hr>
 
-###  <h2 align="center">:hammer_and_wrench: Languages, Frameworks & Tools </h2>
-  <div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://api.iconify.design/devicon/scikitlearn.svg" title="Scikit-Learn" alt="Scikit-Learn" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <section class="contact">
+      <h2>📫 Get in Touch</h2>
+      <ul>
+        <li>Email: <a href="mailto:emile.aydar@outlook.fr">emile.aydar@outlook.fr</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/emile-aydar/" target="_blank">emile-aydar</a></li>
+      </ul>
+    </section>
 
-### <h3 align="center"> My Stats</h3>
-<p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=EmileAydar&theme=radical&background=000000" alt="GitHub Streak">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=EmileAydar&show_icons=true&theme=radical" alt="My GitHub stats">
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileAydar&layout=compact&theme=highcontrast" alt="Top Langs">
-    </a>
-</p>
-
-
-### <h4 align="center"> Pinned Repos (so far)</h4>
-
-<p align="center">
-    <a href="https://github.com/EmileAydar/Deep-Learning-Tumor-Fibers-Segmentation">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=EmileAydar&repo=Deep-Learning-Tumor-Fibers-Segmentation" alt="Readme Card for Deep-Learning-Tumor-Fibers-Segmentation">
-    </a>
-    <a href="https://github.com/EmileAydar/Orowan-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=EmileAydar&repo=Orowan-project" alt="Readme Card for Orowan-project">
-    </a>
-</p>
-
-
-
+    <div class="footer">
+      <p>Thank you for visiting my profile!</p>
+    </div>
+  </div>
+</body>
+</html>
