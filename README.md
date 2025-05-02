@@ -111,3 +111,17 @@ class Emile(ResearchEngineer):
   <img src="https://github-readme-stats.vercel.app/api?username=EmileAydar&show_icons=true&theme=radical" alt="Contribution Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileAydar&layout=compact&theme=highcontrast" alt="Top Languages"/>
 </p>
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=EmileAydar&theme=dark&hide_border=false)<br/>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmileAydar/EmileAydar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmileAydar/EmileAydar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/EmileAydar/EmileAydar/output/github-snake.svg" />
+</picture>
+
+---
