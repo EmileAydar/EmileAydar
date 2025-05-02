@@ -127,20 +127,10 @@ class Emile(ResearchEngineer):
 </div>
 
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/EmileAydar/EmileAydar/output/github-snake-dark.svg" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/EmileAydar/EmileAydar/output/github-snake.svg" 
-  />
-  <img 
-    alt="🐍 GitHub Snake" 
-    src="https://raw.githubusercontent.com/EmileAydar/EmileAydar/output/github-snake.svg" 
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakariaSisalah/ZakariaSisalah/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakariaSisalah/ZakariaSisalah/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZakariaSisalah/ZakariaSisalah/output/github-snake.svg" />
 </picture>
-
 
 
 
