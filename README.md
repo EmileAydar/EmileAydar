@@ -104,12 +104,45 @@ class Emile(ResearchEngineer):
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 
-### <h2 align="center">📊 GitHub Stats </h2>
+### <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=EmileAydar&theme=radical&background=000000" alt=""/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=EmileAydar&show_icons=true&theme=radical" alt="Contribution Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileAydar&layout=compact&theme=highcontrast" alt="Top Languages"/>
+<div align="center">
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=EmileAydar&theme=radical&background=000000&hide_border=false" 
+    alt="🔥 GitHub Streak Stats" 
+  /><br/>
 
-</p>
+  <!-- Contribution Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=EmileAydar&show_icons=true&theme=radical" 
+    alt="📈 GitHub Contribution Stats" 
+  /><br/>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileAydar&layout=compact&theme=highcontrast" 
+    alt="🛠 Top Languages" 
+  /><br/>
+</div>
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/EmileAydar/EmileAydar/output/github-snake-dark.svg" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/EmileAydar/EmileAydar/output/github-snake.svg" 
+  />
+  <img 
+    alt="🐍 GitHub Snake" 
+    src="https://raw.githubusercontent.com/EmileAydar/EmileAydar/output/github-snake.svg" 
+  />
+</picture>
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
