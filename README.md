@@ -141,8 +141,6 @@ class Emile(ResearchEngineer):
   />
 </picture>
 
----
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
