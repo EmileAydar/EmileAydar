@@ -10,7 +10,7 @@
 </h1>
 
 
-> 💡 **Looking for role as a Research Engineer, Software Engineer, or Research Scientist in Large Language Models. Available immediately.**
+> 💡 **Looking for role as a Research Engineer, AI Engineer, Software Engineer, or Research Scientist in Large Language Models. Available immediately.**
 ### `$ cat emile.py`
 ```python
 from profiles import ResearchEngineer
