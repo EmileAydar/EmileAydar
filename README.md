@@ -37,7 +37,7 @@ class Emile(ResearchEngineer):
                 "period": "Oct 2024 – Apr 2025",
                 "highlights": [
                     "Multi-objective recommender optimizing fairness & diversity on large-scale datasets",
-                    "Built distributed Slurm/A100 training pipelines; submitted paper to ACM RecSys 2025"
+                    "Built distributed Slurm/A100 training pipelines"
                 ]
             },
             {
