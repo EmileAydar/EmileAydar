@@ -49,7 +49,6 @@ class Emile(ResearchEngineer):
 ```
 
 
-[![Linkedin: emile-aydar](https://img.shields.io/badge/-Emile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emile-aydar/)](https://www.linkedin.com/in/emile-aydar/)
 ![Stars](https://img.shields.io/github/stars/EmileAydar)
 
 ##  <h2 align="center">💻 Tech Stack: </h2>
