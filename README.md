@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-> 💡 **Looking for role as a Research Engineer, AI Engineer, Software Engineer, or Research Scientist in Large Language Models. Available immediately.**
+> 💡 ** I like light bubbles.**
 ### `$ nano emile.py`
 ```python
 from profiles import ResearchEngineer
