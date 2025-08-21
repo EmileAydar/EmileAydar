@@ -13,6 +13,7 @@
 ### `$ nano emile.py`
 ```python
 from profiles import ResearchEngineer
+from qualities import Curious
 import math
 
 class Emile(ResearchEngineer):
@@ -32,18 +33,13 @@ class Emile(ResearchEngineer):
         ]
 
         self.keywords = [
-            "AI Research", "Deep Learning", "NLP", "Computer Vision",
-            "Edge AI", "Distributed Systems", "Docker & CI/CD",
-            "GPU Acceleration", "Recommendation Systems", "Medical Imaging"
+            ""Deep Learning", "NLP", "Computer Vision", "Medical Imaging"
+            "Edge AI", "Distributed Systems", "GPU Acceleration"
         ]
         self.attribute = Curious(level=math.inf)
-        self.location = ["France","Ireland"]
 
     def mode(self):
         return "🔬 Research | 🛠️ Engineering | 📈 Optimization"
-
-    def contact(self):
-        return "emile.aydar@outlook.fr"
 
 
 ```
