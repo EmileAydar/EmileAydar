@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-> 💡 ** I like light bubbles.**
+> 💡 I like light bubbles.
 ### `$ nano emile.py`
 ```python
 from profiles import ResearchEngineer
