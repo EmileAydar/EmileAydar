@@ -12,11 +12,11 @@
 > 💡 I like light bubbles.
 ### `$ nano emile.py`
 ```python
-from profiles import ResearchEngineer
+from profiles import Researcher
 from qualities import Curious
 import math
 
-class Emile(ResearchEngineer):
+class Emile(Researcher):
     def __init__(self):
         self.name = "Emile Aydar"
         self.focus = [
@@ -69,12 +69,3 @@ class Emile(ResearchEngineer):
     alt="🛠 Top Languages" 
   /><br/>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakariaSisalah/ZakariaSisalah/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakariaSisalah/ZakariaSisalah/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ZakariaSisalah/ZakariaSisalah/output/github-snake.svg" />
-</picture>
-
-
-
